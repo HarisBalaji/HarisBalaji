@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Haris Balaji
-- 👀 I’m interested in Machine Learning
+- 👀 I’m learning Android Studio using Kotlin and will migrate to Jetpack Compose
+- 👨‍💻 Building small applications to get some hands-on experience
 - 🌱 I’m currently solving problems in leetcode
 -     Leetcode Profile : https://leetcode.com/harisbalaji2003/
-- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me :  harisbalaji2003@gmail.com  
 -                       Twitter -> @haris_offl
 
