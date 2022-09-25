@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haris Balaji
-- 👀 I’m learning Android Studio using Kotlin and will migrate to Jetpack Compose
+- 👀 I’m learning Android Development using Kotlin and will migrate to Jetpack Compose
 - 👨‍💻 Building small applications to get some hands-on experience
 - 🌱 I’m currently solving problems in leetcode
 -     Leetcode Profile : https://leetcode.com/harisbalaji2003/
